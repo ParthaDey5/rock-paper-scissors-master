@@ -1,5 +1,7 @@
 # Frontend Mentor - Rock, Paper, Scissors Game
 
+![Design preview for the Multi-step form coding challenge](/RPS.PNG)
+
 This is a submission for the [Frontend Mentor](https://www.frontendmentor.io) **Rock, Paper, Scissors** challenge. The project includes both the original and bonus game modes (Rock, Paper, Scissors, Lizard, Spock), optimized for responsive gameplay across devices.
 
 ## 🚀 Live Site
